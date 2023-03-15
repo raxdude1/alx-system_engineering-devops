@@ -1,1 +1,2 @@
-#! /bin/bash#! /bin/bash#! /bin/bas7-#! 1
+#!/bin/bash
+export BEST="School"
